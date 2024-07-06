@@ -7,6 +7,8 @@
 
 - Likelion 12th FE (24.03 ~ )
 
+- Clouding Application Engineering Dev Course 2nd (24.05 ~ )
+
 - 42 Seoul 9th Cadet (23.03.13 ~ 23.09)
 
 - 42 Seoul La Piscine (23.01.09 ~ 23.02.03)
@@ -15,7 +17,7 @@
 
 <div align="center">
 
-# ✨ Tech ✨
+# ✨ Skills ✨
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,react,js)](https://skillicons.dev)
