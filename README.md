@@ -5,7 +5,7 @@
 
 - Software Engineering Department at Sejong University (21.02 ~ )
 
-- Likelion 12th FE 1 (24.03 ~ )
+- Likelion 12th FE (24.03 ~ )
 
 - 42 Seoul 9th Cadet (23.03.13 ~ 23.09)
 
