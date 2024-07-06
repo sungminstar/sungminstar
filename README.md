@@ -1,6 +1,6 @@
 <div align="center">
   
-# Sungmin Star ✨
+# ✨ Sungmin Star ✨
 </div>
 
 - Software Engineering Department at Sejong University (21.02 ~ )
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-# Tech
+# ✨ Tech ✨
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,react,js)](https://skillicons.dev)
@@ -27,12 +27,13 @@
 ---
 <div align="center">
 
-# Algorithm
-</div>
+# ✨ Algorithm ✨
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin8453)](https://solved.ac/sungmin8453/)
+</div>
 
 ---
+
 <div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
