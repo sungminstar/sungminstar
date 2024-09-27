@@ -8,7 +8,7 @@
 
 - Likelion 12th FE (24.03 ~ )
 
-- Clouding Application Engineering Dev Course 2nd (24.05 ~ )
+- Clouding Application Engineering Dev Course 2nd (24.05 ~ 24.09)
 
 - 42 Seoul 9th Cadet (23.03.13 ~ 23.09)
 
